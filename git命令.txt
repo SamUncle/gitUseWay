@@ -1,4 +1,4 @@
-这是在fen分支上操作的
+这是在master分支上操作的
 1.git常用命令
 $cd D: 打开电脑的D盘 
 $mkdir gitrepository 创建一个名为gitrepository的文件夹
